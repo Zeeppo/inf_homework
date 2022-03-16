@@ -1,4 +1,3 @@
-global n
 def F(n):
     if n > 15:
         return n
